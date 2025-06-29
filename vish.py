@@ -1,1 +1,4 @@
-hi thank you for the details
+this is the first line now
+var="string"
+var1=int
+var2=float
